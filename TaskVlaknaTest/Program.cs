@@ -17,6 +17,7 @@ namespace TaskVlaknaTest
                  });
             int cislo = uloha.Result;
             Console.WriteLine(cislo);
+            Console.WriteLine("hotovo");
             Console.ReadKey();
         }
     }
